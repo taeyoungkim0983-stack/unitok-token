@@ -1,0 +1,19 @@
+{
+  "name": "UNITOK Token List",
+  "logoURI": "https://raw.githubusercontent.com/taeyoungkim0983-stack/unitok-tokenlist/main/logo.png",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2714cB487a398a4042b4Ff9A85B3E02a52A1F73F",
+      "name": "UNITOK",
+      "symbol": "UNIT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/taeyoungkim0983-stack/unitok-tokenlist/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
