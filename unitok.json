@@ -1,6 +1,13 @@
 {
   "name": "UNITOK Token List",
-  "logoURI": "https://raw.githubusercontent.com/taeyoungkim0983-stack/unitok-tokenlist/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/taeyoungkim0983-stack/unitok-token/main/assets/unitok.png",
+  "keywords": ["unitok", "campus", "student", "crypto"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-01-01T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 56,
@@ -8,12 +15,7 @@
       "name": "UNITOK",
       "symbol": "UNIT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/taeyoungkim0983-stack/unitok-tokenlist/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/taeyoungkim0983-stack/unitok-token/main/assets/unitok.png"
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }
